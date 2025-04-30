@@ -2,10 +2,11 @@
 
 #calculadora {
     width: 400rem;
-    height: 70.rem;
+    height: 70rem;
     border: 1px solid black;
 
     margin: auto;
     margin-top: 10rem;
+    background-color: aqua;
     
 }
